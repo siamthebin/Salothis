@@ -1,0 +1,21 @@
+{
+  "name": "Salothis",
+  "short_name": "Salothis",
+  "description": "A premium dark-themed clothing e-commerce application.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/kGBy0mD6/IMG-0142.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/kGBy0mD6/IMG-0142.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
